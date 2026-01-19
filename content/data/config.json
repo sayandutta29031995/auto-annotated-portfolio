@@ -32,6 +32,14 @@
                 "url": "https://www.facebook.com/imsayandutta/",
                 "icon": "facebook",
                 "elementId": ""
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://x.com/sayand29",
+                "icon": "twitter",
+                "elementId": ""
             }
         ],
         "styles": {
