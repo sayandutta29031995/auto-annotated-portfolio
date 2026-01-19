@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Tools
+title: All Tools
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
